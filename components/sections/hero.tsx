@@ -100,7 +100,7 @@ export default function Hero() {
             </a>
           </Button>
           <Button asChild variant="outline" size="lg" className="group">
-            <a href="/public/M_Ismail_Daniyal CV.pdf" download>
+            <a href="public/Muhammad Ismail Daniyal_Resume (3).pdf" download>
               <Download className="mr-2 h-4 w-4 transition-transform group-hover:scale-125" />
               Download Resume
             </a>
